@@ -1,9 +1,9 @@
-function sum (op1, op2){
+function sum (op1, op2, op3){
 
-    console.log(op1 + op2);
+    console.log(op1 + op2 + op3);
         
 }
-    // sum (9, 2)
+    sum (9, 2, 3)
 
 
 
