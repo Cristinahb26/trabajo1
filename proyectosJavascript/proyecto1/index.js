@@ -1,9 +1,4 @@
-function sum (op1, op2){
 
-    console.log(op1 + op2);
-        
-}
-    // sum (9, 2)
 
 
 
